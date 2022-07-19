@@ -1,0 +1,8 @@
+from models.first_stage_models.BaseModel import BaseRecommender
+from models.first_stage_models.BiVAERecommender import BiVAERecommender
+from models.first_stage_models.LastPurchasesImageSimilarity import LastPurchasesImageSimilarity
+from models.first_stage_models.LastPurchasesPopularity import LastPurchasesPopularity
+
+
+
+
